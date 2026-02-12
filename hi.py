@@ -7,4 +7,3 @@ print("third commit")
 mn = 34
 
 print("hello")
-print("heloooo")
