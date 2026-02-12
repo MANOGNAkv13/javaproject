@@ -5,5 +5,5 @@ hello = 667
 print("hi im somthing in 5th commit")
 
 print("hiSS")
-
+print(manu)
 
